@@ -23,5 +23,5 @@
 
 ## ⚖ Licença
 
-Esse projeto está sob licença. Veja o arquivo [MIT](LICENSE.md) para mais detalhes.<br>
+Esse projeto está sob licença. Veja o arquivo [MIT](https://github.com/CamilaF56/project-NLW/blob/main/LICENSE) para mais detalhes.<br>
 
