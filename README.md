@@ -1,10 +1,15 @@
 <h1>
 📄<br>Project - NLW 
 </h1>
+Este repositório é de um projeto feito da Rockeseat com o intuito de elevar os níveis na programação
 
 ## 🚀 Projeto NLW - Ignite 🚀
+> web
+![image](https://user-images.githubusercontent.com/76233464/215381556-5f8e27c7-ff2c-4b3b-bcb0-2db2e1a5b62d.png)
 
-> Este repositório é de um projeto feito da Rockeseat com o intuito de elevar os níveis na programação
+> mobile
+![image](https://user-images.githubusercontent.com/76233464/215381612-197e5da4-1b2f-42fc-bdf3-04be4ec2e0db.png)
+
 ---
 ## Tecnologia utilizadas 🐱‍👤
 
